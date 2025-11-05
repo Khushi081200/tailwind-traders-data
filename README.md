@@ -15,6 +15,7 @@ Below are the main dashboard views from the Power BI report:
 
  1️⃣ Sales Overview Dashboard
 This view provides:
+
 ✅ Total stock value  
 ✅ Total quantity purchased  
 ✅ Median sales insights  
@@ -31,6 +32,7 @@ This view provides:
 
  2️⃣ Profit Overview Dashboard
 This view includes:
+
 ✅ Year-to-date profit margin  
 ✅ Net revenue performance  
 ✅ Gross revenue  
